@@ -1,6 +1,6 @@
 == ScrumPoker
 
-Rails is a web-application that allows teams to perform agile estimation using the popular "poker" planning game.
+ScrumPoker is a web-application that allows teams to perform agile estimation using the popular "poker" planning game.
 This application allows Scrum Masters to sign up for access, create new planning games, and estimate a list of 
 planning items.  After creating a game and loading planning items, the Scrum Master will invite the team members
 by sending them a URL through whatever means.  

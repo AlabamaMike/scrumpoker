@@ -7,5 +7,5 @@ Feature: Creating Games
 	 Given I am logged in
 	 When I click "New Game"
 	 And I fill in "Name" with "Test Sprint 1"
-	 And I press "Start Game"
+	 And I press "Create Game"
 	 Then I should see "Game has been created."
